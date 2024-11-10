@@ -3,6 +3,9 @@
 # Print "Hello, World!"
 print("Hello, World!")
 
+print("hi")
+
+print("PLEASE WORK")
 # Ask the user for their name
 name = input("What is your name? ")
 
